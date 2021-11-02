@@ -1,5 +1,5 @@
 # EADH
-##　Coding for Digital Humanities
+**Coding for Digital Humanities**
 Python Notebooks for EADH
 
 This is the pre-launch version of the "Coding for Digital Humanities" project funded by the European Association for Digital Humanites (EADH) small grant in 2021. It consists of 4 main notebooks that offer a steady progression in hands-on Python programming skills from complete beginner to advanced. You can choose your notebook based on your existing skill-/knowledge level.
