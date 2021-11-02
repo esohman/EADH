@@ -4,6 +4,11 @@ Python Notebooks for EADH
 
 This is the pre-launch version of the "Coding for Digital Humanities" project funded by the European Association for Digital Humanites (EADH) small grant in 2021. It consists of 4 main notebooks that offer a steady progression in hands-on Python programming skills from complete beginner to advanced. You can choose your notebook based on your existing skill-/knowledge level.
 
+This notebook has been created by Emily Öhman, Assistant Professor of Digital Humanities at Waseda University, Japan.
+
+This is the first step to learning Python. The target audience for these tutorials is digital humanities, and other cross-disciplinary scholars and students who are not aiming to become programmers as such, but who wish to gain code literacy and the tools to do most of the computational side of their research themselves.
+
+
 **The first notebook**, called the *introdcutory* notebook, goes through the very basics of Python programming from commenting to data types such as integers, floats, and strings, to the concept of loops as well as how to open a file in Python.
 
 **The second notebook**, the *beginner* notebook, delves deeper into lists (including list comprehension), dictionaries, and sets and focuses on skills relevant specifically for computational humanities and social sciences such as pre-processing steps for textual data including regular expressions and the Natural Language Toolkit (NLTK). Troubleshooting and probelm-solving is also discussed.
@@ -16,4 +21,4 @@ Together all of these notebooks offers a clear progression from beginner to adva
 
 
 The best way to learn to program, is to write code yourself. Find a project you are interested in and try to implement it using your new skills.
-I also recommend that you look at the tasks notebook and try to solve those.
+I also recommend that you look at the tasks notebook and try to solve those as you learn new concepts.
