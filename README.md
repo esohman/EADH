@@ -24,6 +24,8 @@ This is the first step to learning Python. The target audience for these tutoria
 Additional, special topic notebooks will be added to the project in time. Feel free to suggest topics you are interested in! Currently special topics will include topic modeling, network analysis, and sentiment analysis.
 Another upcoming addition to these notebooks is accompanying them with videos. 
 
+---
+
 Together all of these notebooks offers a clear progression from beginner to advanced and links to other relevant resources and tutorials that will help you focus on the topics you are interested in the most or feel that you need the most training in. Other resources include online books, tutorials, websites, and videos.
 
 
