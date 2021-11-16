@@ -4,7 +4,7 @@ Python Notebooks for EADH
 
 This is the pre-launch version of the "Coding for Digital Humanities" project funded by a **European Association for Digital Humanites (EADH) small grant** in 2021. It consists of 4 main notebooks that offer a steady progression in hands-on Python programming skills from complete beginner to advanced. You can choose your notebook based on your existing skill-/knowledge level.
 
-This notebook has been created by Emily Öhman, Assistant Professor of Digital Humanities at Waseda University, Japan.
+*This notebook has been created by Emily Öhman, Assistant Professor of Digital Humanities at Waseda University, Japan.*
 
 This is the first step to learning Python. The target audience for these tutorials is digital humanities, and other cross-disciplinary scholars and students who are not aiming to become programmers as such, but who wish to gain code literacy and the tools to do most of the computational side of their research themselves.
 
