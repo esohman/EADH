@@ -8,6 +8,7 @@ This is the pre-launch version of the "Coding for Digital Humanities" project fu
 
 This is the first step to learning Python. The target audience for these tutorials is digital humanities, and other cross-disciplinary scholars and students who are not aiming to become programmers as such, but who wish to gain code literacy and the tools to do most of the computational side of their research themselves.
 
+![image](data/EADH_content_overview.png)
 
 ## Introduction
 **The first notebook**, called the *introdcutory* notebook, goes through the very basics of Python programming from commenting to data types such as integers, floats, and strings, to the concept of loops as well as how to open a file in Python.
