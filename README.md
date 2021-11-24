@@ -22,7 +22,7 @@ Many of the topics covered in these notebooks could be their own full courses, w
 **The third notebook**, the *intermediate* notebook, looks at functions and classes as well as more advanced NLTK topics. Pandas, numpy, visualizations and data analysis in general is also introduced.
 
 ## Advanced
-**The fourth** and final, *advanced*, notebook introduces lambda functions, machine learning and classification, as well as the basic ideas behind large language models such as BERT.
+**The fourth** and final, *advanced*, notebook introduces lambda functions, machine learning and classification, as well as the basic ideas behind classes.
 
 ## Special topics
 Additional, special topic notebooks will be added to the project in time. Feel free to suggest topics you are interested in! Currently special topics will include topic modeling, network analysis, and sentiment analysis.
