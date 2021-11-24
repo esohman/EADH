@@ -33,5 +33,4 @@ Another upcoming addition to these notebooks is accompanying them with videos.
 Together all of these notebooks offers a clear progression from beginner to advanced and links to other relevant resources and tutorials that will help you focus on the topics you are interested in the most or feel that you need the most training in. Other resources include online books, tutorials, websites, and videos.
 
 
-***The best way to learn to program, is to write code yourself. Find a project you are interested in and try to implement it using your new skills.
-I also recommend that you look at the tasks notebook and try to solve those as you learn new concepts.***
+***The best way to learn to program, is to write code yourself. Find a project you are interested in and try to implement it using your new skills.***
