@@ -18,9 +18,10 @@ Many of the topics covered in these notebooks could be their own full courses, w
 ## Beginner
 **The second notebook**, the *beginner* notebook, delves deeper into lists (including list comprehension), dictionaries, and sets and focuses on skills relevant specifically for computational humanities and social sciences such as pre-processing steps for textual data including regular expressions and the Natural Language Toolkit (NLTK). Troubleshooting and probelm-solving is also discussed.
 ### Related videos
-[![How to use Google Colab](https://img.youtube.com/vi/PY8M5yyTg/maxresdefault.jpg)](https://youtu.be/onPY8M5yyTg)
 
-[![Introduction to Variables](https://img.youtube.com/vi/ggXv9InLEjA/maxresdefault.jpg)](https://youtu.be/ggXv9InLEjA)
+[How to use Google Colab](https://youtu.be/onPY8M5yyTg)
+
+[Introduction to Variables](https://youtu.be/ggXv9InLEjA)
 
 ## Intermediate
 **The third notebook**, the *intermediate* notebook, looks at functions and classes as well as more advanced NLTK topics. Pandas, numpy, visualizations and data analysis in general is also introduced.
