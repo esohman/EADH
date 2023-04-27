@@ -18,6 +18,7 @@ Many of the topics covered in these notebooks could be their own full courses, w
 
 ### Related videos
 [How to use Google Colab](https://youtu.be/onPY8M5yyTg)
+
 [Introduction to Variables](https://youtu.be/ggXv9InLEjA)
 
 ## Beginner
